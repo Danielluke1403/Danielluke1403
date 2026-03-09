@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since i was 14<br>📚 I'm currently learning machine learning and exploring deep learning<br>🎯 Goals: to become a ml engineer and a good computer science engineer<br>🎲 Fun fact: i love watching football. i support FC Barcelona</p>
 
 ###
 
