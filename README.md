@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Daniel and I'm pursuing Data science and I'm from Delhi ,India</p>
+<p align="left">HI I'm bumblebee</p>
 
 ###
 
