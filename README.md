@@ -17,13 +17,12 @@ I'm a Computer Science Engineering student specializing in Data Science,
 with a passion for building intelligent systems and solving real-world
 problems through technology.
 
-- 🎓 B.Tech Computer Science (Data Science) at SRM Chennai
-- 🧠 Currently exploring Deep Learning, Computer Vision and AI Systems
-- 💻 Building end-to-end applications that combine ML and Software Engineering
-- 🌱 Learning about MLOps, Cloud Computing, RAG and System Design
-- 🎯 Goal: Become a Machine Learning Engineer and a well-rounded Computer Science Engineer
-- 🐛 Creating bugs since I was 14, debugging them ever since
-- ⚽ Football enthusiast and FC Barcelona supporter — Visca Barça!
+-  Currently exploring Deep Learning, Computer Vision and AI Systems
+-  Building end-to-end applications that combine ML and Software Engineering
+-  Learning about MLOps, Cloud Computing, RAG and System Design
+-  Goal: Become a Machine Learning Engineer and a well-rounded Computer Science Engineer
+-  Creating bugs since I was 14, debugging them ever since
+-  Football enthusiast and FC Barcelona supporter — Visca Barça!
 
 ---
 
