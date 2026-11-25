@@ -107,18 +107,18 @@ into applications that people can actually use.
 <div align="center">
 
   <a href="(https://github.com/Danielluke1403/heavy_equipment_prediction)">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Heavy-Equipment-Prediction&theme=github_dark&hide_border=false&border_color=30363d&title_color=58a6ff&icon_color=58a6ff" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Danielluke1403&repo=heavy_equipment_prediction&theme=github_dark&hide_border=false&border_color=30363d&title_color=58a6ff&icon_color=58a6ff" />
   </a>
 
   <a href="(https://github.com/Danielluke1403/dl-genaiproject)">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Smart-MCQ-Solver&theme=github_dark&hide_border=false&border_color=30363d&title_color=58a6ff&icon_color=58a6ff" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Danielluke1403&repo=dl-genaiproject&theme=github_dark&hide_border=false&border_color=30363d&title_color=58a6ff&icon_color=58a6ff" />
   </a>
 
   <a href="(https://github.com/Danielluke1403/vehicle-parking-app)">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Vehicle-Parking-App&theme=github_dark&hide_border=false&border_color=30363d&title_color=58a6ff&icon_color=58a6ff" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Danielluke1403&repo=vehicle-parking-app&theme=github_dark&hide_border=false&border_color=30363d&title_color=58a6ff&icon_color=58a6ff" />
   </a>
 <a href="(https://github.com/Danielluke1403/self_pruning_nn.model)">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Vehicle-Parking-App&theme=github_dark&hide_border=false&border_color=30363d&title_color=58a6ff&icon_color=58a6ff" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Danielluke1403&repo=self_pruning_nn.model&theme=github_dark&hide_border=false&border_color=30363d&title_color=58a6ff&icon_color=58a6ff" />
   </a>
 </div>
 
