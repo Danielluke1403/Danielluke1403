@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there 👋, I'm Daniel (Bumblebee)</h1>
+<h1 align="center">Daniel (Bumblebee) here </h1>
 
 <h3 align="center">
 Aspiring Machine Learning Engineer | Data Science | Software Engineering
@@ -11,7 +11,7 @@ Aspiring Machine Learning Engineer | Data Science | Software Engineering
 
 ---
 
-## 🐝 About Me
+##  About Me
 
 I'm a Computer Science Engineering student specializing in Data Science,
 with a passion for building intelligent systems and solving real-world
@@ -26,7 +26,7 @@ problems through technology.
 
 ---
 
-## 🛠️ Technical Arsenal
+##  Technical Arsenal
 
 ### Programming Languages
 
@@ -64,7 +64,7 @@ problems through technology.
 
 ---
 
-## 🔬 Areas of Interest
+##  Areas of Interest
 
 - Machine Learning & Predictive Analytics
 - Deep Learning & Neural Networks
@@ -76,7 +76,7 @@ problems through technology.
 
 ---
 
-## 🚀 What I'm Building
+##  What I'm Building
 
 | Project | Domain |
 |---|---|
@@ -89,7 +89,7 @@ into applications that people can actually use.
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Deep Learning architectures and optimization
 - Building production-ready ML pipelines
@@ -99,18 +99,31 @@ into applications that people can actually use.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danielluke1403&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielluke1403&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
-</p>
 
 ---
+
+##  Featured Projects
+
+<div align="center">
+
+  <a href="(https://github.com/Danielluke1403/heavy_equipment_prediction)">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Heavy-Equipment-Prediction&theme=github_dark&hide_border=false&border_color=30363d&title_color=58a6ff&icon_color=58a6ff" />
+  </a>
+
+  <a href="(https://github.com/Danielluke1403/dl-genaiproject)">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Smart-MCQ-Solver&theme=github_dark&hide_border=false&border_color=30363d&title_color=58a6ff&icon_color=58a6ff" />
+  </a>
+
+  <a href="(https://github.com/Danielluke1403/vehicle-parking-app)">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Vehicle-Parking-App&theme=github_dark&hide_border=false&border_color=30363d&title_color=58a6ff&icon_color=58a6ff" />
+  </a>
+<a href="(https://github.com/Danielluke1403/self_pruning_nn.model)">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Vehicle-Parking-App&theme=github_dark&hide_border=false&border_color=30363d&title_color=58a6ff&icon_color=58a6ff" />
+  </a>
+</div>
+
+---
+
 
 ## 🤝 Let's Connect
 
